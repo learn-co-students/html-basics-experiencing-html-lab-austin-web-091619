@@ -1,0 +1,6 @@
+bulbasaur
+squirtle
+charmander
+pidgey
+meowth 
+ratata
